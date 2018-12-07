@@ -1,0 +1,9 @@
+<toolSet name="CSS143">
+  <tool name="MakeProjectZip" description="Makes a zip containing all the files in src" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\Trevor\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" />
+      <option name="PARAMETERS" value="run zip -r ../$ModuleName$ ." />
+      <option name="WORKING_DIRECTORY" value="$ModuleSourcePath$" />
+    </exec>
+  </tool>
+</toolSet>
