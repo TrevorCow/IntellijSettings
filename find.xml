@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [BlodyBlockers]'" />
-    <option name="defaultScopeName" value="Directory '... [BlodyBlockers]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... [BlodyBlockers]'" />
+    <option name="customScope" value="Directory '...\src\minecraft\net [BigHac]'" />
+    <option name="defaultScopeName" value="Directory '...\src\minecraft\net [BigHac]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src\minecraft\net [BigHac]'" />
   </component>
 </application>
