@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [BlodyBlockers]'" />
-    <option name="defaultScopeName" value="Directory '... [BlodyBlockers]'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '... [BlodyBlockers]'" />
+    <option name="customScope" value="File '...\core\src\com\trevorcow\bodyblockers\BodyBlockersGame.groovy [BodyBlockersV2.core.main]'" />
+    <option name="defaultScopeName" value="File '...\core\src\com\trevorcow\bodyblockers\BodyBlockersGame.groovy [BodyBlockersV2.core.main]'" />
+    <option name="SEARCH_SCOPE" value="File '...\core\src\com\trevorcow\bodyblockers\BodyBlockersGame.groovy [BodyBlockersV2.core.main]'" />
   </component>
 </application>
