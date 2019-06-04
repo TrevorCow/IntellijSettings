@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="sln" type="Native" />
       <mapping pattern="þÿ" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
