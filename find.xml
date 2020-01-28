@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Package com.trevorcow.lemniscate" />
+    <option name="defaultScopeName" value="Package com.trevorcow.lemniscate" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Package com.trevorcow.lemniscate" />
   </component>
 </application>
