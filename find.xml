@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\core\src\main\com\trevorcow\ghp\logging\Logger.groovy [GroovyHypertextPreprocessor.core.main]'" />
-    <option name="defaultScopeName" value="File '...\core\src\main\com\trevorcow\ghp\logging\Logger.groovy [GroovyHypertextPreprocessor.core.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\core\src\main\com\trevorcow\ghp\logging\Logger.groovy [GroovyHypertextPreprocessor.core.main]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
