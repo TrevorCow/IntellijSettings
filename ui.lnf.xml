@@ -3,7 +3,4 @@
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_MODULES" value="false" />
   </component>
-  <component name="UISettings">
-    <option name="EDITOR_TAB_LIMIT" value="30" />
-  </component>
 </application>
