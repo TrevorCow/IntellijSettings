@@ -1,7 +1,7 @@
 <toolSet name="Java">
   <tool name="Javah" description="Make a JNI header for the current file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$JDKPath$\bin\javah.exe" />
+      <option name="COMMAND" value="$JDKPath$\bin\javah" />
       <option name="PARAMETERS" value="-jni -v -d $FileDir$ $FileClass$" />
       <option name="WORKING_DIRECTORY" value="$SourcepathEntry$" />
     </exec>
