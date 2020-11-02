@@ -4,6 +4,6 @@
     <option name="UI_SHOW_MODULES" value="false" />
   </component>
   <component name="UISettings">
-    <option name="EDITOR_TAB_LIMIT" value="30" />
+    <option name="EDITOR_TAB_LIMIT" value="20" />
   </component>
 </application>
