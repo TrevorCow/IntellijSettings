@@ -4,4 +4,12 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="INSTANCE" value="private static $CLASS_NAME$ INSTANCE;&#10;&#10;private $CLASS_NAME$() {&#10;    $END$&#10;}&#10;&#10;public static $CLASS_NAME$ getInstance() {&#10;    if (INSTANCE == null) {&#10;        INSTANCE = new $CLASS_NAME$();&#10;    }&#10;    return INSTANCE;&#10;}" description="Creates and instance class structure" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
