@@ -37,6 +37,11 @@
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="BSP_TEST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="BatchConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
@@ -79,12 +84,17 @@
                   </entry>
                   <entry key="JetRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
+                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="MUnitRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="MUnit" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
                   <entry key="MavenRunConfiguration">
@@ -97,6 +107,26 @@
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="SbtRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="sbt Task" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ScalaAmmoniteRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Ammonite" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ScalaScriptConsoleRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Scala REPL" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ScalaTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="ScalaTest" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
@@ -107,6 +137,11 @@
                       <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="Specs2RunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="TestNG">
                     <value>
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" bundled="true" />
@@ -115,6 +150,16 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="executeSpecs">
+                    <value>
+                      <FeaturePluginData displayName="Gauge Execution" pluginName="Gauge" pluginId="com.thoughtworks.gauge" />
+                    </value>
+                  </entry>
+                  <entry key="uTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="utest" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
                 </map>
@@ -149,7 +194,12 @@
                   </entry>
                   <entry key="kotlin-language">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="minecraft">
+                    <value>
+                      <FeaturePluginData displayName="Minecraft" pluginName="Minecraft Development" pluginId="com.demonwav.minecraft-dev" />
                     </value>
                   </entry>
                   <entry key="native-android-gradle">
